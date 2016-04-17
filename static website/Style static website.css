@@ -1,0 +1,161 @@
+@charset "utf-8";
+/* CSS Document */
+
+.redcolor
+{
+	background-color:#DA0018;
+}
+select
+{
+	height:15px;
+	background-color:#999;
+	color:#FFF;
+	margin-top:2px;
+}
+.greycolor
+{
+	background-color:#333;
+	color: #F0F0F0;
+	border-left:2px solid #6F6F6F;
+	font-weight:bold;
+	padding: 9px;
+    text-align: left;
+	line-height:1.15;
+	padding-top:20px;
+}
+
+.smalltext
+{
+	font-size:14px;
+	color: #1D89AD;
+	font-weight:bold;
+	line-height:0;	
+}
+
+.comoditystyle
+{
+	font-size:44px; 
+	font-weight:bold; 
+	line-height: 2.2;
+	padding: 12px;
+    text-align: left;
+}
+
+.numstyle
+{
+	text-align:center;
+	font-size:22px;
+	font-weight:bold;
+	
+}
+
+.numtext
+{
+	font-size:14px;
+}
+
+.horizontalline
+{
+	border-left:3px solid #CCC;
+}
+
+.como_futureStyle
+{
+	font-weight:bold;
+	color: #39C;
+}
+
+.hrstyle
+{
+	border:2px solid #CCC;
+}
+
+.boldtext
+{
+	font-weight:bold;
+	text-align:right;
+}
+
+.lefttext
+{
+	text-align:left;
+}
+
+.backTablecolor
+{
+	background-color: #EDF2F8;
+}
+
+.contrastcolor
+{
+	background-color: #E1F3FD;
+}
+
+.contrast-text-color
+{
+	background-color:#AEDCF4;
+	font-weight:bold;
+	font-size:18px;
+}
+
+.contrast-smalltext-color
+{
+	font-size:14px;
+	color: #1D89AD;
+	text-align:right;
+}
+
+.small-num
+{
+	font-size:16px;
+	font-weight:bold;
+	text-align:right;
+}
+
+.orange-red-color
+{
+	color:#F54410;	
+}
+
+.large-text
+{
+	font-size:20px;
+	font-weight:bold;
+	text-align:right;
+}
+
+.right-first-col
+{
+	font-size:14px;
+	color: #1D89AD;
+	font-weight:bold;
+}
+
+.small-num-center
+{
+	font-size:16px;
+	font-weight:bold;
+	text-align:center;
+}
+
+button
+{
+	font-size:17px;
+	background-color:#F30;
+	color:#F0F0F0;
+	border:none;
+	margin-left:50px;
+}
+.market
+{
+	background-color:#186AA7;
+	color:#FFF;
+	font-weight:bold;
+}
+.sector
+{
+	background-color:#125383;
+	color:#FFF;
+	text-align:center;
+	font-weight:bold;
+}
